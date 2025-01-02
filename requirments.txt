@@ -1,8 +1,0 @@
-# OpenAI API keys
-openai_api_key = "22Mj7xKp5fPvOKQDZ54xncvwHCUUt27nPBhmgI89k60HJ3do1kgTJQQJ99ALACYeBjFXJ3w3AAABACOGOy3V"
-openai_endpoint_url = "https://jobspringai.openai.azure.com/"
-openai_deployment_name = "gpt-35-turbo-16k"
-
-#speech
-api_key = "2XJ6aPd30utg3LgzQtxd3peUvYK92O42pt1zZySHWSXUB9OLyVS5JQQJ99ALACYeBjFXJ3w3AAAYACOGufOC"
-endpoint = "https://eastus.api.cognitive.microsoft.com/"
