@@ -1,6 +1,6 @@
 Flask==2.1.2
 PyPDF2==1.26.0
-docx==0.2.5
+docx==0.2.4
 textblob==0.15.3
 nltk==3.7
 spacy==3.1.1
